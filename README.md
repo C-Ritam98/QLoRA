@@ -1,5 +1,5 @@
 # QLoRA
-Fine-tuning an LLM with Huggingface PEFT and QLoRA
+Fine-tuning an Falcon-7B with Huggingface PEFT and QLoRA
 
 
 Code taken from the awesome notebook by [Daniel Furman](https://huggingface.co/dfurman/falcon-40b-chat-oasst1) with minor changes.
